@@ -1,10 +1,14 @@
 html{
     scroll-behavior: smooth;
+    height: 100%;
 }
 
 body{
     background-image: url(blurry-gradient-haikei.svg);
     background-size: cover;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 a{
@@ -18,7 +22,7 @@ a{
 
 .saludo h1{
     font-family: 'Ubuntu', sans-serif;
-    color: rgb(19, 10, 107);
+    color: rgb(15, 9, 73);
     font-weight: 800;
     font-size: 5rem;
     margin-left: 20%;
