@@ -16,9 +16,7 @@ a{
     color: #fff;
 }
 
-h1, h4{
-  color: rgb(14, 9, 61);
-}
+
 
 .saludo{
     position: relative;
@@ -26,7 +24,7 @@ h1, h4{
 
 .saludo h1{
     font-family: 'Ubuntu', sans-serif;
-    color: rgb(14, 9, 61);
+    color: #0b165f;
     font-weight: 800;
     font-size: 5rem;
     margin-left: 20%;
@@ -35,7 +33,7 @@ h1, h4{
 
 .saludo h4{
     font-family: 'Ubuntu', sans-serif;
-    color: rgb(14, 9, 61);
+    color: #0b165f;
     font-weight: 800;
     font-size: 1.5rem;
     margin-left: 20%;
@@ -47,7 +45,7 @@ h1, h4{
 
 .info h4{
     font-family: 'Ubuntu', sans-serif;
-    color: rgb(14, 9, 61);
+    color: #0b165f;
     font-weight: 400;
     font-size: 1.5rem;
     margin-left: 20%;
@@ -74,7 +72,7 @@ h1, h4{
 
 .lenguajes h4{
     font-family: 'Ubuntu', sans-serif;
-    color: rgb(14, 9, 61);
+    color: #0b165f;
     font-weight: 400;
     font-size: 1.5rem;
     margin-left: 20%;
@@ -275,7 +273,7 @@ footer {
     
     .saludo h1{
         font-family: 'Ubuntu', sans-serif;
-        color: rgb(14, 9, 61);
+        color: #0b165f;
         font-weight: 800;
         font-size: 2rem;
         margin-left: 2%;
@@ -284,7 +282,7 @@ footer {
     
     .saludo h4{
         font-family: 'Ubuntu', sans-serif;
-        color: rgb(14, 9, 61);
+        color: #0b165f;
         font-weight: 800;
         font-size: 1.5rem;
         margin-left: 2%;
@@ -296,7 +294,7 @@ footer {
     
     .info h4{
         font-family: 'Ubuntu', sans-serif;
-        color: rgb(14, 9, 61);
+        color: #0b165f;
         font-weight: 400;
         font-size: 1rem;
         margin-left: 2%;
@@ -322,7 +320,7 @@ footer {
     
     .lenguajes h4{
         font-family: 'Ubuntu', sans-serif;
-        color: rgb(14, 9, 61);
+        color: #0b165f;
         font-weight: 400;
         font-size: 1.5rem;
         margin-left: 20%;
@@ -520,7 +518,7 @@ footer {
     
     .saludo h1{
         font-family: 'Ubuntu', sans-serif;
-        color: rgb(14, 9, 61);
+        color: #0b165f;
         font-weight: 800;
         font-size: 5rem;
         margin-left: 5%;
@@ -529,7 +527,7 @@ footer {
     
     .saludo h4{
         font-family: 'Ubuntu', sans-serif;
-        color: rgb(14, 9, 61);
+        color: #0b165f;
         font-weight: 800;
         font-size: 1.5rem;
         margin-left: 5%;
@@ -541,7 +539,7 @@ footer {
     
     .info h4{
         font-family: 'Ubuntu', sans-serif;
-        color: rgb(14, 9, 61);
+        color: #0b165f;
         font-weight: 400;
         font-size: 1rem;
         margin-left: 5%;
@@ -567,7 +565,7 @@ footer {
     
     .lenguajes h4{
         font-family: 'Ubuntu', sans-serif;
-        color: rgb(14, 9, 61);
+        color: #0b165f;
         font-weight: 400;
         font-size: 1.5rem;
         margin-left: 20%;
